@@ -1,5 +1,5 @@
-# **Hi 👋, I'm Shahid Nabi**  
-### **A passionate frontend developer from Pakistan**  
+s# **Hi 👋, I'm Shahid Nabi**  
+### **A passionate Web developer from Pakistan**  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=shahidnai-exe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
@@ -11,7 +11,7 @@
   </a>  
 </p>  
 
-- 🌱 I’m currently learning **React, Node.js**  
+- 🌱 I’m currently learning ** MERN React, Node.js, Express and Mongo**  
 - 🤝 I’m looking for help with **web-based projects**  
 - 💬 Ask me about **React, JavaScript**  
 - 📫 Reach me at **shahidnabi041@gmail.com**  
