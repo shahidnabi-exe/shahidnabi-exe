@@ -1,6 +1,23 @@
 s# **Hi 👋, I'm Shahid Nabi**  
 ### **A passionate Web developer from Pakistan**  
 
+## **🌐 Connect with me:**  
+<p align="left">  
+  <a href="https://linkedin.com/in/shahidnabi" target="_blank">  
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
+  </a>  
+  <a href="https://instagram.com/shahid._.07._" target="_blank">  
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
+  </a>  
+  <a href="https://www.leetcode.com/shahidnabi041" target="_blank">  
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />  
+  </a>  
+  <a href="https://www.hackerearth.com/shahidnabi041" target="_blank">  
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />  
+  </a>  
+</p>  
+
+
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=shahidnai-exe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
 </p>  
@@ -18,22 +35,6 @@ s# **Hi 👋, I'm Shahid Nabi**
 - ⚡ Fun fact: **I'm sarcastic 😆**  
 
 ---
-
-## **🌐 Connect with me:**  
-<p align="left">  
-  <a href="https://linkedin.com/in/shahidnabi" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
-  </a>  
-  <a href="https://instagram.com/shahid._.07._" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
-  </a>  
-  <a href="https://www.leetcode.com/shahidnabi041" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />  
-  </a>  
-  <a href="https://www.hackerearth.com/shahidnabi041" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />  
-  </a>  
-</p>  
 
 ---
 
